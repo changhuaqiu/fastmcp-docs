@@ -8,7 +8,8 @@
 
 ## 文档
 
-- [FastMCP 完整开发指南](docs/fastmcp-guide.md)
+- [FastMCP 完整开发指南](docs/fastmcp-guide.md) - FastMCP 框架使用指南
+- [DevOps 部署 Agent 设计](docs/devops-deployment-agent.md) - 基于 IaC 的代码化部署智能助手设计
 
 ## 目录
 
